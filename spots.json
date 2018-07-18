@@ -56,6 +56,15 @@
     "lng": 120.3550808
   },
    {
+    "id": 218,
+    "name": "Balay Anito Falls",
+    "imageUrl": "http://www.tupanggala.com/wp-content/uploads/2015/03/Balay-AnitoFalls11.jpg",
+    "price": 200,
+    "priceCurrency": "PHP",
+    "lat": 16.7379144,
+    "lng": 120.45457629999999
+  },
+   {
     "id": 220,
     "name": "John Ricky Velasco",
     "imageUrl": "https://github.com/JohnRicky/velasco/blob/master/velasco.png?raw=true",
