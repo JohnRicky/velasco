@@ -8,6 +8,7 @@
     "lat": 16.64357769999999,
     "lng": 120.44879079999998
   },
+  
    {
     "id": 148,
     "name": "Ma-Cho Temple",
@@ -46,6 +47,33 @@
     "lng": 2.339208
   },
   {
+    "id": 211,
+    "name": "Bohemian and Chic in Paris",
+    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat6.jpg",
+    "price": 90,
+    "priceCurrency": "EUR",
+    "lat": 48.827855,
+    "lng": 2.350774
+  }
+   {
+    "id": 211,
+    "name": "Bohemian and Chic in Paris",
+    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat6.jpg",
+    "price": 90,
+    "priceCurrency": "EUR",
+    "lat": 48.827855,
+    "lng": 2.350774
+  }
+   {
+    "id": 211,
+    "name": "Bohemian and Chic in Paris",
+    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat6.jpg",
+    "price": 90,
+    "priceCurrency": "EUR",
+    "lat": 48.827855,
+    "lng": 2.350774
+  }
+   {
     "id": 211,
     "name": "Bohemian and Chic in Paris",
     "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat6.jpg",
