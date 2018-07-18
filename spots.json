@@ -100,8 +100,26 @@
     "lat": 16.61578769999999,
     "lng": 120.31746329999999
   },
+  {
+    "id": 229,
+    "name": "Kamay Na Bato Open Art Gallery",
+    "imageUrl": "https://kyadcayago.files.wordpress.com/2012/03/dsc_0725.jpg?w=590&h=472",
+    "price": 450,
+    "priceCurrency": "PHP",
+    "lat": 16.8472315,
+    "lng": 120.35170560000006
+  },
+  {
+    "id": 245,
+    "name": "Filipino Chinese Friendship Pagoda",
+    "imageUrl": "https://static.panoramio.com.storage.googleapis.com/photos/large/783791.jpg",
+    "price": 30,
+    "priceCurrency": "PHP",
+    "lat": 16.8472315,
+    "lng": 120.35170560000006
+  },
    {
-    "id": 300,
+    "id": 350,
     "name": "John Ricky Velasco",
     "imageUrl": "https://github.com/JohnRicky/velasco/blob/master/velasco.png?raw=true",
     "price": 500,
