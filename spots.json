@@ -21,7 +21,7 @@
     "name": "Super 60m2 in trendy neighborhood!",
     "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat3.jpg",
     "price": 150,
-    "priceCurrency": "EUR",
+    "priceCurrency": "php",
     "lat": 48.885312,
     "lng": 2.341225
   },
