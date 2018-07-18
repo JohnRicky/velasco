@@ -10,12 +10,12 @@
   },
   {
     "id": 148,
-    "name": "Trendy Apt in Buttes Montmartre",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat2.jpg",
-    "price": 200,
-    "priceCurrency": "EUR",
-    "lat": 48.885707,
-    "lng": 2.343543
+    "name": "Ma-cho Temple",
+    "imageUrl": "https://lh5.googleusercontent.com/proxy/uU9wbhmrY_DuDcm9Lp9Z6HIWRqKhvvaorwK2Q1gjmAOg_liLFhOW84QiL1GG4ctvIDtllWJjNPSZGTBwoeRGQ0rOEadqawv7lgLz8lHZgiokJ1TBa-sEwOPl5aw_VTlM8_Cyh23hb7g139C8KhGTubdEN4WRPw=w100-h134-n-k-no",
+    "price": 0,
+    "priceCurrency": "PHP",
+    "lat": 16.6209137,
+    "lng": 120.31712279999999
   },
   {
     "id": 201,
