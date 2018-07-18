@@ -46,4 +46,13 @@
     "lat": 16.7994801,
     "lng": 120.35741329999996
   }
+  {
+    "id": 215,
+    "name": "Basilica Minore of Our Lady of Charity",
+    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-o/0a/6b/8f/c2/this-location-is-only.jpg",
+    "price": 135,
+    "priceCurrency": "PHP",
+    "lat": 16.3247042,
+    "lng": 120.3550808
+  }
 ]
