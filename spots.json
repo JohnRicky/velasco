@@ -19,11 +19,11 @@
   {
     "id": 201,
     "name": "Super 60m2 in trendy neighborhood!",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat3.jpg",
+    "imageUrl": "https://foodietraveller.files.wordpress.com/2013/04/p1010532.jpg",
     "price": 150,
-    "priceCurrency": "php",
-    "lat": 48.885312,
-    "lng": 2.341225
+    "priceCurrency": "PHP",
+    "lat": 16.5881403,
+    "lng": 120.31459840000002
   },
   {
     "id": 205,
