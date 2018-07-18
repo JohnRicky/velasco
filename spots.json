@@ -82,6 +82,24 @@
     "lat": 16.6149039,
     "lng": 120.28080669999997
   },
+  {
+    "id": 226,
+    "name": "Sebay Resort & Entertainment Center",
+    "imageUrl": "http://www.fnetravel.com/english/launionhotels/sebaysurfresort/sebay-surf-resort-facade.jpg",
+    "price": 900,
+    "priceCurrency": "PHP",
+    "lat": 16.656986,
+    "lng": 120.32087360000003
+  },
+   {
+    "id": 228,
+    "name": "St. William the Hermit Cathedral Parish",
+    "imageUrl": "https://kyadcayago.files.wordpress.com/2012/03/dsc_0725.jpg?w=590&h=472",
+    "price": 900,
+    "priceCurrency": "PHP",
+    "lat": 16.61578769999999,
+    "lng": 120.31746329999999
+  },
    {
     "id": 300,
     "name": "John Ricky Velasco",
