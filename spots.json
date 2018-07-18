@@ -39,11 +39,11 @@
   },
   {
     "id": 210,
-    "name": "Superbe vue à 2 min du Sacré Coeur",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat5.jpg",
+    "name": "Occalong Falls",
+    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-o/0c/40/f5/c1/occalong-falls-during.jpg",
     "price": 135,
-    "priceCurrency": "EUR",
-    "lat": 48.888839,
-    "lng": 2.339208
+    "priceCurrency": "PHP",
+    "lat": 16.7994801,
+    "lng": 120.35741329999996
   }
 ]
