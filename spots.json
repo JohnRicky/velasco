@@ -15,8 +15,8 @@
     "imageUrl": "https://www.travelbook.ph/blog/cms/wp-content/uploads/old-site/gallery/12_la_union_san_fernando_ma_cho_temple_betty_tianco.jpg",
     "price": 20,
     "priceCurrency": "PHP",
-    "lat": 16.6209137,
-    "lng": 120.31712279999999
+    "lat": 16.6212054,
+    "lng": 120.31749919999993
   },
  
   {
@@ -66,12 +66,12 @@
   },
   {
     "id": 220,
-    "name": "Balay Anito Falls",
-    "imageUrl": "http://2.bp.blogspot.com/-w0vU7kFGx8Q/T8tqUUdEf0I/AAAAAAAACTc/6HV9a9q7nhQ/s1600/untitled-.jpg",
+    "name": "Gapuz Grapes Farm",
+    "imageUrl": "http://windowseat.ph/wp-content/uploads/2016/08/grape-farm-la-union.jpg",
     "price": 100,
     "priceCurrency": "PHP",
-    "lat": 16.7379144,
-    "lng": 120.45457629999999
+    "lat": 16.4610866,
+    "lng": 120.3339042
   },
   {
     "id": 223,
