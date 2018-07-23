@@ -7,7 +7,7 @@
     "priceCurrency": "PHP",
     "lat": 16.64357769999999,
     "lng": 120.44879079999998,
-    "description":"wewewewewewewew"
+    "description":"Situated in the town of San Gabriel, Tangadan Falls is one of at least ten waterfalls in the town. It is a two-tier cascade along Baroro River with cold water emanating from the hinterland of the province adjacent to the Cordillera Mountain Range."
   },
   
    {
@@ -17,7 +17,8 @@
     "price": "Free",
     "priceCurrency": "",
     "lat": 16.6212054,
-    "lng": 120.31749919999993
+    "lng": 120.31749919999993,
+     "description":"The Ma-Cho[1], Mazu or Ma Cho Temple[2] is a Taoist temple to the Chinese sea-goddess Mazu located on Quezon Avenue in Barangay II, San Fernando, La Union in the Philippines. It was built in 1977 by a group of Filipino-Chinese devotees under the leadership of Dy Keh Hio and with the support of former Tourism Secretary Jose D. Aspiras."
   },
  
   {
@@ -27,7 +28,8 @@
     "price": "Free",
     "priceCurrency": "",
     "lat": 16.5881403,
-    "lng": 120.31459840000002
+    "lng": 120.31459840000002,
+    "description":"for heritage conservation advocates, history freaks, researchers and ghost hunters (Uh? Yes ghost hunters), this place I am going to feature today is the right place for you. It is called the Pindangan Ruins located in the city of San Fernando, La Union."
   },
   {
     "id": 205,
@@ -36,7 +38,8 @@
     "price": 115,
     "priceCurrency": "PHP",
     "lat": 16.5752027,
-    "lng": 120.41743040000006
+    "lng": 120.41743040000006,
+    "description":"One particular waterfalls that is pretty easy and accessible is Tuddingan Falls in the Municipality of Naguilian. Formerly called Burayok Falls, the falls is just about seven kilometers away from the town proper."
   },
   {
     "id": 210,
@@ -45,7 +48,8 @@
     "price": "Free",
     "priceCurrency": "",
     "lat": 16.7994801,
-    "lng": 120.35741329999996
+    "lng": 120.35741329999996,
+    "description":"Another hidden gem located in Luna, La Union. It is a popular destination for both locals and tourists to just take a quick dip and freshen up especially during summer."
   },
   {
     "id": 215,
@@ -54,7 +58,8 @@
     "price": "Free",
     "priceCurrency": "",
     "lat": 16.3247042,
-    "lng": 120.3550808
+    "lng": 120.3550808,
+    "description":"The parish was founded in 1578 by Franciscan friars, Fray John Baptist Lucarelli of Pesaro, Italy and Fray Sebastián de San Francisco of Baesa, Spain. The original church was constructed with native materials, nipa and bamboo (in Barangay Nagreban or Nagrugcan) under its patron, St. Francis of Assisi. In 1598, Padres Saturmino Franco, Casimiro Melgosa and Aquilino García finished a 3-tiered bell tower for the church. In the same year, the Augustinians named Saint Monica as the town's new patron saint."
   },
    {
     "id": 218,
@@ -63,7 +68,8 @@
     "price": "Free",
     "priceCurrency": "",
     "lat": 16.7379144,
-    "lng": 120.45457629999999
+    "lng": 120.45457629999999,
+     "description":"Cold and pure water comes running down from the mountain shallow enough for travelers to enjoy. A hidden gem kept away from the capital."
   },
   {
     "id": 220,
@@ -72,7 +78,8 @@
     "price": 100,
     "priceCurrency": "PHP",
     "lat": 16.4610866,
-    "lng": 120.3339042
+    "lng": 120.3339042,
+    "description":"Upon arriving in the location along Manila National Road, there were plenty of guides waiting for guests and visitors. One young guide, tall with sun-kissed skin and a calm Ilocano feature, approached and helped us along the way."
   },
   {
     "id": 223,
@@ -81,7 +88,8 @@
     "price": "Free",
     "priceCurrency": "",
     "lat": 16.6149039,
-    "lng": 120.28080669999997
+    "lng": 120.28080669999997,
+    "description":"Poro Point has been the site of a navigational aid since 1885. The first Poro Point Lighthouse built during the Spanish colonial period is a cylindrical steel tower that was prefabricated in France and was completed on 28 November 1885."
   },
   {
     "id": 226,
@@ -90,7 +98,8 @@
     "price": 900,
     "priceCurrency": "PHP",
     "lat": 16.656986,
-    "lng": 120.32087360000003
+    "lng": 120.32087360000003,
+    "description":"Sebay Surf Central is ideally located in the Heart of Northern Luzon’s Surfing Capital, Urbiztondo, San Juan, La Union. Surfing enthusiasts flock to enjoy the waves of the famous San Juan Cove. "
   },
    {
     "id": 228,
@@ -99,7 +108,8 @@
     "price": 100,
     "priceCurrency": "PHP",
     "lat": 16.3299893,
-    "lng": 120.36796090000007
+    "lng": 120.36796090000007,
+     "description":"Located few meters from the entry point of Jose D. Aspiras Highway (formerly Marcos Highway) that connects La Union to Baguio City is a giant concrete statue of an eagle with wings widespread ready to take its flight and known as "EAGLE OF THE NORTH"."
   },
   {
     "id": 229,
@@ -108,7 +118,8 @@
     "price": 450,
     "priceCurrency": "PHP",
     "lat": 16.8472315,
-    "lng": 120.35170560000006
+    "lng": 120.35170560000006,
+    "description":"one of the best spots for respite from the hustle and bustle of the city. In 2000, professional doctors Dr. Edison and Dr. Purita Chan-Noble had a rest house constructed along its coast so that they too can enjoy the serenity and beauty of the place."
   },
   {
     "id": 245,
@@ -117,7 +128,8 @@
     "price": "Free",
     "priceCurrency": "PHP",
     "lat": 16.6142161,
-    "lng": 120.31901190000008
+    "lng": 120.31901190000008,
+    "description":"The province of La Union is a popular tourist destination, with more and more visitors coming every year to get a glimpse of the many fascinating attractions here"
   },
    {
     "id": 350,
@@ -126,6 +138,7 @@
     "price": 500,
     "priceCurrency": "PHP",
     "lat": 16.6821537,
-    "lng": 120.40983499999993
+    "lng": 120.40983499999993,
+     "description":""
   }
 ]
