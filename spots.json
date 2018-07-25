@@ -131,6 +131,206 @@
     "lng": 120.31901190000008,
     "description":"The province of La Union is a popular tourist destination, with more and more visitors coming every year to get a glimpse of the many fascinating attractions here"
   },
+  {
+    "id": 222,
+    "name": "Huma Island",
+    "imageUrl": "https://www.travel-palawan.com/wp-content/uploads/2018/02/huma-island-resort-palawan.jpg",
+    "price": "",
+    "Km": "PHP",
+    "lat": 12.0537261,
+    "lng": 119.9023095,
+    "description":"Want to take a break from the crowded cities and places to visit in the Philippines? Then, spend a luxurious getaway at the Human Island Resort – a heavenly refuge full of indulgence and adventure. "
+  },
+  {
+    "id": 333,
+    "name": "Camiguin",
+    "imageUrl": "https://content.shopback.com/ph/wp-content/uploads/2018/01/19113011/mantigue-island_2.jpg",
+    "price": "",
+    "Km": "PHP",
+    "lat": 9.173216400000001,
+    "lng": 124.72987650000005,
+    "description":"Camiguin, aptly labeled as the “Island Born of Fire”, is a fascinating island-province brimming with volcanoes like Mount Uhay, Mount Hibok-Hibok, Mount Vulcan and Mount Mambajao"
+  },
+  {
+    "id": 444,
+    "name": "Coron, Palawan",
+    "imageUrl": "https://www.azamaraclubcruises.com/sites/default/files/heros/coron-palawan-philippines-1800x1000.jpg",
+    "price": "",
+    "Km": "PHP",
+    "lat": 12.0499255,
+    "lng": 120.17817479999997,
+    "description":"Coron, often revered as one of the most beautiful places to visit in the Philippines, is truly a spectacular tropical paradise that will wow you in a lot of different ways."
+  },
+  {
+    "id": 555,
+    "name": "Batanes",
+    "imageUrl": "https://images.trekeffect.com/blog-trekeffect/2016/01/GettyImages-486948956.jpg",
+    "price": "",
+    "Km": "PHP",
+    "lat": 20.4485074,
+    "lng": 121.97081290000006,
+    "description":"Batanes, one of the dream places to visit in the Philippines for local travelers, is a surreal haven that promises to give you a slice of heaven of earth"
+  },
+  {
+    "id": 666,
+    "name": "El Nido, Palawan",
+    "imageUrl": "https://images.trekeffect.com/blog-trekeffect/2016/01/GettyImages-465042272.jpg",
+    "price": "",
+    "Km": "PHP",
+    "lat": 11.2097089,
+    "lng": 119.46225389999995,
+    "description":"Blessed with a wealth of pocket caves and eye-catching beaches, El Nido is Mother Nature’s way of showing off her grand and supreme beauty"
+  },
+  {
+    "id": 661,
+    "name": "Cebu City",
+    "imageUrl": "https://images.trekeffect.com/blog-trekeffect/2016/01/3787133838_93454fab99_b.jpg",
+    "price": "",
+    "Km": "PHP",
+    "lat": 10.3156992,
+    "lng": 123.88543660000005,
+    "description":"The city of Cebu is not just an awesome base and jump-off point to explore the Philippines, but it is a worthy destination in itself as well. "
+  },
+  {
+    "id": 662,
+    "name": "Camotes, Cebu",
+    "imageUrl": "https://images.trekeffect.com/blog-trekeffect/2016/01/460407412_cb9fa4c827_b.png",
+    "price": "",
+    "Km": "PHP",
+    "lat": 10.6939554,
+    "lng": 124.41964580000001,
+    "description":"Want to get true taste of the laid-back island life in the Philippines? Head off the grid on the islands of Camotes – a couple of hours east of the city of Cebu"
+  },
+  {
+    "id": 663,
+    "name": "Boracay, Aklan",
+    "imageUrl": "https://images.trekeffect.com/blog-trekeffect/2016/01/GettyImages-467707324.jpg",
+    "price": "",
+    "Km": "PHP",
+    "lat": 11.9673753,
+    "lng": 121.92481499999997,
+    "description":"Boracay is, without a shadow of a doubt, the ultimate beach destination and one of the top places to visit in the Philippines"
+  },
+  {
+    "id": 664,
+    "name": "Lake Sebu",
+    "imageUrl": "https://images.trekeffect.com/blog-trekeffect/2016/01/15478054134_e2b7342cc7_b.jpg",
+    "price": "",
+    "Km": "PHP",
+    "lat": 6.2447394,
+    "lng": 124.55283869999994,
+    "description":"Why should you pay a visit to Lake Sebu? While Lake Sebu is not as famous as Boracay and Palawan, it’s nonetheless a charming and lush destination with a burgeoning tourism industry."
+  },
+  {
+    "id": 665,
+    "name": "Tagaytay",
+    "imageUrl": "https://images.trekeffect.com/blog-trekeffect/2016/01/24597329966_e0e95690a0_b.jpg",
+    "price": "",
+    "Km": "PHP",
+    "lat": 14.115286,
+    "lng": 120.96211649999998,
+    "description":"Tagaytay is a popular holiday town south of Manila on the Philippine island Luzon."
+  },
+  {
+    "id": 666,
+    "name": "Vigan",
+    "imageUrl": "https://images.trekeffect.com/blog-trekeffect/2016/01/GettyImages-539019147.jpg",
+    "price": "",
+    "Km": "PHP",
+    "lat": 17.5704898,
+    "lng": 120.38732989999994,
+    "description":"For the ultimate throwback adventure in the Philippines, visit Vigan – the country’s first and only UNECO World Heritage city"
+  },
+  {
+    "id": 667,
+    "name": "Siquijor",
+    "imageUrl": "https://images.trekeffect.com/blog-trekeffect/2016/01/GettyImages-505768093.png",
+    "price": "",
+    "Km": "PHP",
+    "lat": 9.199877899999999,
+    "lng": 123.59519249999994,
+    "description":"Siuijor, dubbed as one the most mysterious places to visit in the Philippines, is a serene cove that is believed to be a breeding ground for witches, sorcerers and even mythical supernatural creatures"
+  },
+   {
+    "id": 668,
+    "name": "Tubbataha Reefs Natural Park",
+    "imageUrl": "https://images.trekeffect.com/blog-trekeffect/2016/01/Tubbataha_Shark.jpg",
+    "price": "",
+    "Km": "PHP",
+    "lat": 8.853380900000001,
+    "lng": 119.91616469999997,
+    "description":"If scuba diving is your cup of tea, then make sure to put Tubbataha Reefs Natural Park on top of your list of places to visit in the Philippines"
+  },
+   {
+    "id": 669,
+    "name": "Catanduanes",
+    "imageUrl": "https://images.trekeffect.com/blog-trekeffect/2016/01/GettyImages-149349843.jpg",
+    "price": "",
+    "Km": "PHP",
+    "lat": 13.6070437,
+    "lng": 124.1359923,
+    "description":"On the lookout for a cheaper and closer alternative to Batanes? Then, make sure to include Catanduanes to your list of the places to visit in the Philippines in 2018! Nicknamed as the 'land of the howling winds'"
+  },
+  {
+    "id": 670,
+    "name": "Mount Pulag, Luzon",
+    "imageUrl": "https://images.trekeffect.com/blog-trekeffect/2016/01/6992109548_7410110985_b.jpg",
+    "price": "",
+    "Km": "PHP",
+    "lat": 16.5975,
+    "lng": 120.89916659999994,
+    "description":"Mount Pulag is, as far as I’m concerned, one of the bucket-list worthy places to visit in the Philippines for adventurists and nature lovers."
+  },
+   {
+    "id": 671,
+    "name": "Bohol",
+    "imageUrl": "https://images.trekeffect.com/blog-trekeffect/2016/01/GettyImages-518548647.png",
+    "price": "",
+    "Km": "PHP",
+    "lat": 9.849991099999999,
+    "lng": 124.14354270000001,
+    "description":"The Chocolate Hills, one of the most iconic sights in the country, is a series of hills that spread beautifully over the municipalities of Batuan, Sagbayan and Carmen in Bohol."
+  },
+  {
+    "id": 672,
+    "name": "Langun Gobingob Caves in Samar",
+    "imageUrl": "https://images.trekeffect.com/blog-trekeffect/2016/01/Langun-Gobingob-cave-calbiga.jpg",
+    "price": "",
+    "Km": "PHP",
+    "lat": 11.932458,
+    "lng": 125.03881639999997,
+    "description":" With tons of caves mapped and explore on this island, it’s no wonder extreme outdoor adventure junkies are calling Samar as the country’s caving capital. "
+  },
+  {
+    "id": 673,
+    "name": "Kalanggaman Island, Leyte",
+    "imageUrl": "https://images.trekeffect.com/blog-trekeffect/2016/01/7086541803_635db8e9fc_b.jpg",
+    "price": "",
+    "Km": "PHP",
+    "lat": 11.1143992,
+    "lng": 124.2494537,
+    "description":" Kalanggaman Island, the crown jewel of Leyte, is a supremely beautiful sand bar that is fast becoming one of most sought-after places to visit in the Philippines. "
+  },
+  {
+    "id": 674,
+    "name": "Mayon Volcano, Albay",
+    "imageUrl": "https://images.trekeffect.com/blog-trekeffect/2016/01/Cagsawa_ruins.jpg",
+    "price": "",
+    "Km": "PHP",
+    "lat": 13.254832,
+    "lng": 123.68611239999996,
+    "description":" Listed by CNN as one of the world’s most photogenic volcanoes, Mayon Volcano boasts a perfectly-shaped cone that can surpass the allure of any grand and celebrated volcano in the world. "
+  },
+  {
+    "id": 675,
+    "name": "Southern Cebu",
+    "imageUrl": "https://images.trekeffect.com/blog-trekeffect/2016/01/6775643372_7c533bcbc8_o.jpg",
+    "price": "",
+    "Km": "PHP",
+    "lat": 10.328622,
+    "lng": 123.901029,
+    "description":"Cebu’s southern side has a deluge of outdoor thrills, nature trips, beaches and waterfalls to keep a traveler busy for a week or even a couple of months.  "
+  },
    {
     "id": 350,
     "name": "John Ricky Velasco",
