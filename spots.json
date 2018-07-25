@@ -41,26 +41,8 @@
     "lng": 120.41743040000006,
     "description":"One particular waterfalls that is pretty easy and accessible is Tuddingan Falls in the Municipality of Naguilian. Formerly called Burayok Falls, the falls is just about seven kilometers away from the town proper."
   },
-  {
-    "id": 210,
-    "name": "Occalong Falls",
-    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-o/0c/40/f5/c1/occalong-falls-during.jpg",
-    "price": "Free",
-    "Km": "",
-    "lat": 16.7994801,
-    "lng": 120.35741329999996,
-    "description":"Another hidden gem located in Luna, La Union. It is a popular destination for both locals and tourists to just take a quick dip and freshen up especially during summer."
-  },
-  {
-    "id": 215,
-    "name": "Basilica Minore of Our Lady of Charity",
-    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-o/0a/6b/8f/c2/this-location-is-only.jpg",
-    "price": "Free",
-    "Km": "",
-    "lat": 16.3247042,
-    "lng": 120.3550808,
-    "description":"The parish was founded in 1578 by Franciscan friars, Fray John Baptist Lucarelli of Pesaro, Italy and Fray Sebastián de San Francisco of Baesa, Spain. The original church was constructed with native materials, nipa and bamboo (in Barangay Nagreban or Nagrugcan) under its patron, St. Francis of Assisi. In 1598, Padres Saturmino Franco, Casimiro Melgosa and Aquilino García finished a 3-tiered bell tower for the church. In the same year, the Augustinians named Saint Monica as the town's new patron saint."
-  },
+  
+ 
    {
     "id": 218,
     "name": "Balay Anito Falls",
@@ -71,16 +53,7 @@
     "lng": 120.45457629999999,
      "description":"Cold and pure water comes running down from the mountain shallow enough for travelers to enjoy. A hidden gem kept away from the capital."
   },
-  {
-    "id": 220,
-    "price": "Gapuz Grapes Farm",
-    "imageUrl": "http://windowseat.ph/wp-content/uploads/2016/08/grape-farm-la-union.jpg",
-    "Km": 100,
-    "Km": "PHP",
-    "lat": 16.4610866,
-    "lng": 120.3339042,
-    "description":"Upon arriving in the location along Manila National Road, there were plenty of guides waiting for guests and visitors. One young guide, tall with sun-kissed skin and a calm Ilocano feature, approached and helped us along the way."
-  },
+ 
   {
     "id": 223,
     "name": "Poro Point Lighthouse",
@@ -111,16 +84,7 @@
     "lng": 120.36796090000007,
      "description":"Located few meters from the entry point of Jose D. Aspiras Highway (formerly Marcos Highway) that connects La Union to Baguio City is a giant concrete statue of an eagle with wings widespread ready to take its flight and known as 'EAGLE OF THE NORTH'."
   },
-  {
-    "id": 229,
-    "name": "Kamay Na Bato Open Art Gallery",
-    "imageUrl": "https://lh3.googleusercontent.com/aotf3kWUXogy48tEW4InYYVuTpbdYD9KlUneklW2G8X5QkA8DF3-qY08DK9xYIht1cifiE6RW3DZ-Wkh_-Bue088cyWOtHPwHeNN5w8y7HTt_aCLLfpG3y4g0yayaSseC5dDor0M-9PQiGqedPh3vG3n4JW8NJVanGyRGHCGGH7QXqRmLYhuwiAV4aU6EaG3uNx4YNvYfGIYM-rcErgAkBczCP_0bDUcfx_cL9sxV6Brs8D7VmR875KmTmNDpahnEw1TRddlz97j4wB3v7u2KSMC31jwGzEwVHwh-c46PVhD_zLKuKjIfqMBzqHgRJKlttIxq7MTgTb937usaWvJJ584w7kQwgbVzc2EIW0N1QNiZiMyfJcwxHPJ61qpgiGd4_cogsRuGy1qkPHp-mRva3YD4bk9yZYJFMJKmr6pchBlH6rNAb3_d-gHXN5dhE99XQaT2uvq35zOGKZBL1qsU9dFUBQlJg9516PCvFqtVIMuJCb0fIrnzyYdT8WwoMYy32EWiUNsnvhIEFcITrMnR1zVqSVeqgGEPMgM-UEUKsLYFgYy0gMJGH3VKYiEezKehxUr6QzZyKF6bcvc4DI5qX8cBFn341Oi2jyq8sPT3N54CXnmF1XUStF4GHexVf6eCGbkfV8emC-zgvIWK6ky_-RjhiVktnfC8Q=w993-h662-no",
-    "Km": 450,
-    "Km": "PHP",
-    "lat": 16.8472315,
-    "lng": 120.35170560000006,
-    "description":"one of the best spots for respite from the hustle and bustle of the city. In 2000, professional doctors Dr. Edison and Dr. Purita Chan-Noble had a rest house constructed along its coast so that they too can enjoy the serenity and beauty of the place."
-  },
+  
   {
     "id": 245,
     "name": "Filipino Chinese Friendship Pagoda",
@@ -330,6 +294,26 @@
     "lat": 10.328622,
     "lng": 123.901029,
     "description":"Cebu’s southern side has a deluge of outdoor thrills, nature trips, beaches and waterfalls to keep a traveler busy for a week or even a couple of months.  "
+  },
+  {
+    "id": 676,
+    "name": "Banaue Rice Terraces, Ifugao",
+    "imageUrl": "https://images.trekeffect.com/blog-trekeffect/2016/01/186278546-2.jpg",
+    "price": "",
+    "Km": "PHP",
+    "lat": 16.9239537,
+    "lng": 121.0556401,
+    "description":"Deemed as the “Eight Wonder of the World”, this national treasure is definitively one of the best places to visit in the Philippines for sightseeing and nature trips.  "
+  },
+  {
+    "id": 677,
+    "name": "Northern Samar",
+    "imageUrl": "https://images.trekeffect.com/blog-trekeffect/2016/01/maxresdefault-1.jpg",
+    "price": "",
+    "Km": "PHP",
+    "lat": 12.3613199,
+    "lng": 124.77407930000004,
+    "description":"Dramatic rock formations, cloistered coves, and untouched beaches await travelers who visit Northern Samar, which is one of the most undervalued gems and places to visit in the Philippines."
   },
    {
     "id": 350,
