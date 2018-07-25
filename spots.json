@@ -135,8 +135,8 @@
     "id": 350,
     "name": "John Ricky Velasco",
     "imageUrl": "https://github.com/JohnRicky/velasco/blob/master/velasco.png?raw=true",
-    "price": 500,
-    "Km": "PHP",
+    "price": 0.32593,
+    "Km": "Km",
     "lat": 16.6821537,
     "lng": 120.40983499999993,
      "description":""
